@@ -1,0 +1,7 @@
+{
+  "name": "AI Resume Coach & Analyzer",
+  "description": "A high-performance resume analysis agent that provides professional HR feedback, ATS scores, and job matching using Gemini 3 Pro and Flash.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
